@@ -1,7 +1,7 @@
 .judul{
     text-align: center;
 }
-.container table, tr, th{
+.container.container table, tr, th{
     border-collapse: collapse;
     padding: 5px;
     border: 1px solid black;
