@@ -1,11 +1,19 @@
 .judul{
+        text-align: center;
+        }
+
+.container table, th, td{
+    border-collapse: collapse;
+    width: 27%;
+    padding: 4px;
     text-align: center;
 }
-.container table, tr, th{
-    border-collapse: collapse;
-    padding: 5px;
-    border: 1px solid black;
-    background-color: bisque;
-    margin-left: auto;
-    margin-right: auto;
-}
+
+    th{
+       background-color: turquoise;
+
+    }
+
+    tr:nth-child(even) {
+        background-color:plum;
+    }
