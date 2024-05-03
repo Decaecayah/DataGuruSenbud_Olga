@@ -8,12 +8,3 @@
     padding: 4px;
     text-align: center;
 }
-
-    th{
-       background-color: turquoise;
-
-    }
-
-    tr:nth-child(even) {
-        background-color:plum;
-    }
