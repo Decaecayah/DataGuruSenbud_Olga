@@ -1,10 +1,14 @@
-.judul{
-        text-align: center;
-        }
+.container{
+    padding: 20px;
+    padding-bottom: 5px;
+}
 
-.container table, th, td{
-    border-collapse: collapse;
-    width: 27%;
-    padding: 4px;
+.footer{
+    width: 100%;
     text-align: center;
+    height: 50px;
+    background: #333;
+    color: #fff;
+    position: fixed;
+    bottom: 0px;
 }
